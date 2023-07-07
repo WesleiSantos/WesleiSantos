@@ -1,6 +1,7 @@
 ### Hi, I'm Weslei Santos 👋
 
-🎓 Student of Computer Engineer - UEFS 10/10
+🎓 Student of Computer Engineer - UEFS 10/10 <br>
+
 💻 Fullstack Developer (Laravel, Vuejs) - Golfarma
 
 - 🔭 I’m currently working on PHP, Laravel, Vuejs, Docker
